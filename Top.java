@@ -12,6 +12,5 @@ public class Top {
         BClass bclass = new BClass();
         bclass.printMe();
 
-
     }
 }
